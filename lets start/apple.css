@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+img{
+   max-width:100%;
+}
+
+/*header style*/
+.header-wrapper{
+   width:100% ;
+   color: #fff;
+   font-weight: 200;
+   font-size: .75em;
+   background: black; 
+}
+.header-wrapper ul{
+    display: flex;
+justify-content: space-between;
+list-style: none;
+
+}
+.internal-wrapper{
+    width: 980px;
+    padding: 0 10px;
+    margin: 0  auto; 
+}
+.header-wrapper .header-link-wrapper ul li a{
+    text-decoration: none;
+    color: #fff;
+    width: 18px;
+}
+.header-wrapper  {
+
+
+}
+
+
